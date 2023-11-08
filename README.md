@@ -1,5 +1,4 @@
-# LetsChat
-LetsChat is a Sample Messaging Android application built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Dagger-Hilt, Architecture Components, MVVM, Room, Coil) and Firebase
+t is a Sample Messaging Android application built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Dagger-Hilt, Architecture Components, MVVM, Room, Coil) and Firebase
 
 - Create a firebase project and replace the google-services.json file which you get from your firebase project console
 - Following firebase services need to be enabled in the firebase console

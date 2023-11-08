@@ -1,12 +1,12 @@
-t is a Sample Messaging Android application built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Dagger-Hilt, Architecture Components, MVVM, Room, Coil) and Firebase
+Es una aplicación de Android de mensajería de muestra creada para demostrar el uso de herramientas de desarrollo modernas de Android (Kotlin, Coroutines, Dagger-Hilt, Architecture Components, MVVM, Room, Coil) y Firebase.
 
-- Create a firebase project and replace the google-services.json file which you get from your firebase project console
-- Following firebase services need to be enabled in the firebase console
-  - Phone Auth
-  - Cloud Firestore
-  - Realtime Database
-  - Storage
-  - Composite indexes should be created for contact query(link for enabling indexes could be found from logcat while using the app)
+- Cree un proyecto de Firebase y reemplace el archivo google-services.json que obtiene de la consola del proyecto de Firebase.
+- Los siguientes servicios de Firebase deben estar habilitados en la consola de Firebase.
+  - Autenticación telefónica
+  - Tienda de fuego en la nube
+  - Base de datos en tiempo real
+  - Almacenamiento
+  - Se deben crear índices compuestos para consultas de contacto (el enlace para habilitar índices se puede encontrar en logcat mientras se usa la aplicación)
 
 ***You can Install and test latest LetsChat app from below 👇***
 
